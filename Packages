@@ -1,13 +1,13 @@
 Package: com.agent22922.noweatherchannel
 Name: NoWeatherChannel
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Description: Get rid of the Weather Channel button at the bottom of the Weather App
 Maintainer: agent22922
 Author: agent22922
 Section: Tweaks
-Filename: debs/com.agent22922.noweatherchannel_0.0.1-17+debug_iphoneos-arm.deb
-Size: 5606
-MD5sum: b9acd25888239109b91cd244785a16b5
-SHA1: f5e4ea741a61ece828c4a33a8444b6135ed3b7ce
-SHA256: 7cd377ea8effc6e1e1484befbff1dce636af20ea6db9421dad0c1d9985545e17
+Filename: debs/com.agent22922.noweatherchannel_0.0.1-23+debug_iphoneos-arm.deb
+Size: 6296
+MD5sum: 76ace0fc0e710497384393374dfc8c78
+SHA1: 43c96f07221258ec61761efb48b13cbd42627dc2
+SHA256: caa6d93f0cac4847c1c1f247098e21e1c6cfb9ae2b3e86f2b3591bd918d8b0fd
