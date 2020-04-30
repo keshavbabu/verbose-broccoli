@@ -11,3 +11,17 @@ Size: 4602
 MD5sum: fb95aeaabc9daef266e649e1559180c6
 SHA1: 51b072d2fe15735af320ef4c5cedc867d3b349a1
 SHA256: 6586061e80292ff0b0c0eeb2fc8247d7ee681f40f3e6b038b9db64a6a8ecc36e
+
+Package: com.agent22922.norecentfiles
+Name: NoRecentFiles
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide the annoying tab bar on the bottom of the files app and automatically open to the "Browse" tab.
+Maintainer: agent22922
+Author: agent22922
+Section: Tweaks
+Filename: debs/com.agent22922.norecentfiles_0.0.1_iphoneos-arm.deb
+Size: 4336
+MD5sum: 2774f000c97a276559a25da8391b3964
+SHA1: f49f78bd337d4feadfdb352af5a0d63012140760
+SHA256: 73da9dc53c856422b45ad63e1a35773f9c258b256c17386abff380030793e0ad
