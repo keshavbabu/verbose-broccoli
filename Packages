@@ -28,14 +28,14 @@ SHA256: 73da9dc53c856422b45ad63e1a35773f9c258b256c17386abff380030793e0ad
 
 Package: com.agent22922.whatsatab
 Name: WhatsATab
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Hide certain tabs of the WhatsApp tab bar
 Maintainer: agent22922
 Author: agent22922
 Section: Tweaks
-Filename: debs/com.agent22922.whatsatab_0.0.1_iphoneos-arm.deb
-Size: 12598
-MD5sum: 58157168434b0f55e9aca6d0b800aee9
-SHA1: e50ba2cd8ab35a597c9c9b6a2ebed93806c46d48
-SHA256: 04edb4fe853ea762096f51f1a92e3bf31ed91a139b9bd56d45ad709f1523beb4
+Filename: debs/com.agent22922.whatsatab_0.0.2_iphoneos-arm.deb
+Size: 11902
+MD5sum: a6a5dd71b5808d38dc8cd22e14429bea
+SHA1: 112409cc6eb82b85b74142c9974c8b8cd2209148
+SHA256: 40fdb3713d92ded6953749ab47ced83777cc9143365832cd99cb17458c5a7c6b
