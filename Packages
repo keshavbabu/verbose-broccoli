@@ -52,4 +52,17 @@ Filename: debs/com.agent22922.lowpowertap_0.0.1_iphoneos-arm.deb
 Size: 4712
 MD5sum: 2c0a2290908716fc983920725923c9f9
 SHA1: ad376f64975bd28cafc0f9c3f52ee4bc771df2f1
+SHA256: 641026843e29acbb1ba693c13f441217f7713c92c6ca25dad9b966acad87800ePackage: com.agent22922.lowpowertap
+Name: LowPowerTap
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: agent22922
+Author: agent22922
+Section: Tweaks
+Filename: debs/com.agent22922.lowpowertap_0.0.1_iphoneos-arm.deb
+Size: 4712
+MD5sum: 2c0a2290908716fc983920725923c9f9
+SHA1: ad376f64975bd28cafc0f9c3f52ee4bc771df2f1
 SHA256: 641026843e29acbb1ba693c13f441217f7713c92c6ca25dad9b966acad87800e
+
