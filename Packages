@@ -53,3 +53,17 @@ Size: 5020
 MD5sum: e4a04e0986da6bd779b978b327246266
 SHA1: 70e68421d0e174f7225c7776a4183893a2d75b36
 SHA256: c6cdec1f669f535acbeea4583ed9a4994b0018df32320fc8e1ad2e9b0955b0ba
+
+Package: com.agent22922.unlockvol13
+Name: UnlockVol13
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Allow changing volume while locked
+Maintainer: agent22922
+Author: agent22922
+Section: Tweaks
+Filename: debs/com.agent22922.unlockvol13_0.0.1_iphoneos-arm.deb
+Size: 3470
+MD5sum: c5fd051b8ad6101d3cb8ed7a092734c1
+SHA1: ffbcc132f7629ece3a2017dc66aadb1d4a1f28c7
+SHA256: 7d8925c00653de94cb8dc8794cd994d2821db778061fe89c098e1ef8b2e7cdd1
