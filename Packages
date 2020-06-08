@@ -68,7 +68,7 @@ Architecture: iphoneos-arm
 Maintainer: agent22922
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: /home/keshav/tweaks/realfiles/packages/com.agent22922.realfiles_0.0.1_iphoneos-arm.deb
+Filename: debs/com.agent22922.realfiles_0.0.1_iphoneos-arm.deb
 Size: 4948
 MD5sum: b86d08143814489a341c50d2b39c0ff4
 SHA1: f77d9776c181922e2d8c5ed0c11bc1f840c0c6ac
