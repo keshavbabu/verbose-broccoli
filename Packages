@@ -61,3 +61,19 @@ Section: Tweaks
 Description: Allow changing volume while locked
 Author: agent22922
 Name: UnlockVol13
+
+Package: com.agent22922.realfiles
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: agent22922
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: /home/keshav/tweaks/realfiles/packages/com.agent22922.realfiles_0.0.1_iphoneos-arm.deb
+Size: 4948
+MD5sum: b86d08143814489a341c50d2b39c0ff4
+SHA1: f77d9776c181922e2d8c5ed0c11bc1f840c0c6ac
+SHA256: a6df7a4c07d3f7d09ff66a24b4f2ed4723ce8cc8c767acca35f4ff1ab7bef7db
+Section: Tweaks
+Description: Show the full filename in the Files app
+Author: agent22922
+Name: RealFiles
